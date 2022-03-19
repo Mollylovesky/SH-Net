@@ -9,7 +9,6 @@ Code release for Scribble-attention Hierarchical Network for Weakly Supervised S
 
 
 # Our Results:
-![alt text](./Visual1.png)
 
 ![alt text](./Visual2.png)
 
