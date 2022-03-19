@@ -9,17 +9,19 @@ Code release for Scribble-attention Hierarchical Network for Weakly Supervised S
 
 
 # Our Results:
-![alt text](./results.png)
+![alt text](./Visual1.png)
 
-![alt text](./E_F_measure.png)
+![alt text](./Visual2.png)
 
 
 
 ## Acknowledgement
 
-Many thanks to [Weakly-Supervised Salient Object Detection via Scribble Annotations](https://github.com/PRIS-CV/PMG-Progressive-Multi-Granularity-Training).
+Many thanks to [Weakly-Supervised Salient Object Detection via Scribble Annotations]
 
-Extended Optical Remote Sensing Saliency Detection (EORSSD) Dataset
+https://github.com/JingZhang617/Scribble_Saliency.
+
+[Extended Optical Remote Sensing Saliency Detection (EORSSD) Dataset]
 
 https://github.com/rmcong/EORSSD-dataset
 
