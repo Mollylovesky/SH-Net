@@ -5,7 +5,6 @@ Code release for Scribble-attention Hierarchical Network for Weakly Supervised S
 1. Install Pytorch.
 ## Training data
 The training data can be downloaed from [(EORSSD) Dataset](https://github.com/rmcong/EORSSD-dataset).
-
 ## Pretrained weights for backbone
 The pretrianed weight for backbone can be downloaded from [VGG16].(https://github.com/rmcong/EORSSD-dataset）.
 # Test Model
