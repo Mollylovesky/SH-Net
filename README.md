@@ -1,7 +1,7 @@
 # SH-Net
 
 Code is coming soon...
-
+When the paper is accepted we will publish the code...
 # Training
 ## Requirements
  Install Pytorch.
