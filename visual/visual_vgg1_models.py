@@ -453,7 +453,7 @@ class Back_VGG(nn.Module):
         f_x_4_3_2 = F.interpolate(f_x_4_3_2, size=(176, 176), mode='bilinear', align_corners=True)
 
         f_x_4_3 = F.interpolate(f_x_4_3, size=(88, 88), mode='bilinear', align_corners=True)
-       # f_x_4_3 = self.rcab3(f_x_4_3)
+        f_x_4_3 = self.rcab3(f_x_4_3)
 
 
 
