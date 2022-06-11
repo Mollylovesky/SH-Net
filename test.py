@@ -14,12 +14,12 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--testsize', type=int, default=352, help='testing size')
 parser.add_argument('--batchsize', type=int, default=2, help='testing batch size')
 model = Back_VGG(channel=32)
-model.load_state_dict(torch.load('D:/Scribble_Saliency-master/models/scribble_50.pth',map_location=torch.device('cpu')))
+model.load_state_dict(torch.load('./models/best.pth',map_location=torch.device('cpu')))
 model.cuda()
 model.eval()
 opt = parser.parse_args()
 
-dataset_path = 'D:/Scribble_Saliency-master/testing/img/'
+dataset_path = './testing/img/'
 #dataset_path = 'H:/mmatlab/img/'
 
 
@@ -32,7 +32,7 @@ dataset_path = 'D:/Scribble_Saliency-master/testing/img/'
 test_datasets = ['EORSSD']
 
 for dataset in test_datasets:
-    save_path = './results/ResNet50/' + dataset + '/'
+    save_path = './results/VGG/' + dataset + '/'
     if not os.path.exists(save_path):
         os.makedirs(save_path)
     image_root = dataset_path + dataset + '/'
