@@ -5,7 +5,6 @@ import numpy as np
 import pdb, os, argparse
 from scipy import misc
 
-from model.fpn_model import Yolact
 from model.vgg1_models import Back_VGG
 from data import test_dataset
 os.environ["CUDA_VISIBLE_DEVICES"] = '0'
