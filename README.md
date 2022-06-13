@@ -1,11 +1,15 @@
 # SH-Net
 # Training
+Since our data and code are involved in subsequent work, we will not release the complete code for the time being.
+Please forgive us！
+## You can find our results on EORSSD and ORSSD dataset here:
+
 ## Requirements
  Install Pytorch.
 ## Training data
 The training data can be downloaed from [(EORSSD) Dataset](https://github.com/rmcong/EORSSD-dataset).
-
 Our edge map from:https://github.com/yun-liu/rcf.
+
 ## Pretrained weights for backbone
 The pretrianed weight for backbone can be downloaded from [VGG16].
 (链接：https://pan.baidu.com/s/1hbIShLB-iYuRXy59iVvg8g 提取码：msrp).
