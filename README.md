@@ -1,7 +1,6 @@
 # SH-Net
 # Training
-## Since our data and code are involved in subsequent work, we will not release the complete code for the time being.
-Please forgive us！
+## Since our data and code are involved in subsequent work, we will not release the complete code for the time being. Please forgive us！
 ## You can find our results on EORSSD and ORSSD dataset here: 链接：https://pan.baidu.com/s/1DG35rlwtWV8RBJnNTnzALQ 提取码：k9c4 
 
 ## Requirements
