@@ -18,10 +18,6 @@ The pretrianed weight for backbone can be downloaded from [VGG16].
 2) You need to get the test images (链接：https://pan.baidu.com/s/1u8W5iGMPFnQCdhaV1d6FHw 提取码：6h6e).
 3) Run ./test.py
 
-# Performance
-Download the trained model 
-(链接：https://pan.baidu.com/s/1Q4peJrJba6N8KCPJeauySw 提取码：3sko).
-
 # Our Results:
 ![alt text](./Visual2.png)
 ## Visualization
