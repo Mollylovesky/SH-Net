@@ -15,12 +15,9 @@ The pretrianed weight for backbone can be downloaded from [VGG16].(链接：http
 2) You need to get the test images (链接：https://pan.baidu.com/s/1u8W5iGMPFnQCdhaV1d6FHw 提取码：6h6e).
 3) Run ./test.py
 
-# Our Results:
-![alt text](./Visual2.png)
 ## Visualization
-
 Code in visual.py helps generate visualization.
-
+![alt text](./Visual2.png)
 ## Acknowledgement
 
 Many thanks to [Weakly-Supervised Salient Object Detection via Scribble Annotations]  https://github.com/JingZhang617/Scribble_Saliency.
