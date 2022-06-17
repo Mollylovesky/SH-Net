@@ -3,7 +3,7 @@
  Install Pytorch.
 ## Training data
 The training data can be downloaed from [(EORSSD) Dataset]( https://github.com/rmcong/EORSSD-dataset).
-Our edge map from:https://github.com/yun-liu/rcf.
+Our edge map from: https://github.com/yun-liu/rcf.
 
 ## Pretrained weights for backbone
 The pretrianed weight for backbone can be downloaded from [VGG16].(BaiduNetDisk：https://pan.baidu.com/s/1hbIShLB-iYuRXy59iVvg8g extract code：msrp).
