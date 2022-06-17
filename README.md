@@ -8,8 +8,7 @@ The training data can be downloaed from [(EORSSD) Dataset](https://github.com/rm
 Our edge map from:https://github.com/yun-liu/rcf.
 
 ## Pretrained weights for backbone
-The pretrianed weight for backbone can be downloaded from [VGG16].
-(链接：https://pan.baidu.com/s/1hbIShLB-iYuRXy59iVvg8g 提取码：msrp).
+The pretrianed weight for backbone can be downloaded from [VGG16].(链接：https://pan.baidu.com/s/1hbIShLB-iYuRXy59iVvg8g 提取码：msrp).
 
 # Test Model
 1) Modify the testing image path accordingly.
