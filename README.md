@@ -2,7 +2,7 @@
 ## Requirements
  Install Pytorch.
 ## Training data
-The training data can be downloaed from [(EORSSD) Dataset](https://github.com/rmcong/EORSSD-dataset).
+The training data can be downloaed from [(EORSSD) Dataset]( https://github.com/rmcong/EORSSD-dataset).
 Our edge map from:https://github.com/yun-liu/rcf.
 
 ## Pretrained weights for backbone
